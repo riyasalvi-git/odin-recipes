@@ -1,0 +1,28 @@
+h1 {
+	margin: auto;
+}
+
+#recipe-card {
+	background: #add8e6;
+	color: #dc7049;
+	box-sizing: border-box;
+	height: auto;
+	width: 1000px;
+	margin: auto;
+}
+
+.image {
+	display: block;
+	height: 200px;
+	width: auto;
+}
+
+.content {
+	font-family: "Georgia", serif;
+	font-size: 24px;
+}
+
+h3 {
+	font-size: 36px;
+	font-weight: 500;
+}
